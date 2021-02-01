@@ -1,0 +1,1 @@
+CREATE DATABASE aboutStock default CHARACTER SET UTF8;

@@ -1,0 +1,1 @@
+create table aboutStock.company (code varchar(10), name varchar(20), price int, count int, primary key(code));
